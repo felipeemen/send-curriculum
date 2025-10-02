@@ -1,6 +1,6 @@
 # Formulário para envio de currículos
 
-### Laravel 12 + Vue + Inertia.js + MySQL
+### Laravel 12 + Shadcn + Vue + Inertia.js + MySQL
 
 ### Nome, e-mail, telefone, Cargo Desejado (Campo texto livre), Escolaridade (Campo select), observações, arquivo e data e hora do envio.
 ### Filas e Jobs para o envio do email com os dados do formulario
@@ -9,7 +9,7 @@
 
 ### Clonar o repositório
 ```
-https://github.com/felipeemen/
+https://github.com/felipeemen/send-curriculum
 ```
 ### Instalar com Docker
 ```
@@ -74,3 +74,8 @@ describe('Página de envio de currículo', function () {
     });
 });
 ```
+
+### Imagem:
+
+![Captura de tela 2025-10-02 172915](https://github.com/user-attachments/assets/6ab2183c-4317-4e17-86f3-e4920e3c9272)
+
